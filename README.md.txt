@@ -1,0 +1,1 @@
+This website was created as part of the coders of colour intro to wagtail and dev ops course. The website uses wagtail CMS and python
